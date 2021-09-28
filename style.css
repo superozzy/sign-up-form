@@ -213,6 +213,10 @@ a{
     
 }
 
+.attribution{
+    hsl(249, 10%, 26%) 
+}
+
 @media (min-width: 960px) {
     body {
       background: #ff7a7a url(./images/bg-intro-desktop.png) center;
